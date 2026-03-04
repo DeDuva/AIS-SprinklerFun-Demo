@@ -1,0 +1,5 @@
+{
+  "name": "SprinklerFun",
+  "description": "Visualize and analyze sprinkler water utilization from Flume water meter data.",
+  "requestFramePermissions": []
+}
